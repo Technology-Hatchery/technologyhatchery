@@ -21,6 +21,8 @@ if (isset($_SERVER['SERVER_SOFTWARE']) && strpos($_SERVER['SERVER_SOFTWARE'],'Go
     $link = mysql_connect('173.194.109.207', 'root', 'Cc17931793');
     $qry = 'USE wordpress_db';
     $result = mysql_query($qry);
+    $qry = 'SET time_zone = \'-08:00\'';
+    $result = mysql_query($qry);
     $qry = 'INSERT INTO logger (dateVal, userip, port) VALUES(\'' . date('Y-m-d H:i:s') . '\',\'' . $_SERVER['SERVER_ADDR'] . '\',\'' . $_SERVER['SERVER_PORT'] . '\');';
     $result = mysql_query($qry);
 }
