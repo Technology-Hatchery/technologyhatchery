@@ -835,7 +835,7 @@ class WP_Widget_Recent_Comments extends WP_Widget {
 		extract($args, EXTR_SKIP);
 		$output = '';
 
-		$title = ( ! empty( $instance['title'] ) ) ? $instance['title'] : __( 'Recent Comments' );
+		$title = ( ! empty( $instance['title'] ) ) ? $instance['title'] : __( 'Recent Commentszz' );
 
 		/** This filter is documented in wp-includes/default-widgets.php */
 		$title = apply_filters( 'widget_title', $title, $instance, $this->id_base );

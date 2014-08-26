@@ -29,6 +29,7 @@
     } else {
         /** Local environment MySQL login info */
         define('DB_HOST', '173.194.109.207');
+        //define('DB_HOST', 'wordpress.cd12ovxnqlap.us-east-1.rds.amazonaws.com');
         define('DB_USER', 'root');
         define('DB_PASSWORD', 'Cc17931793');
     }
