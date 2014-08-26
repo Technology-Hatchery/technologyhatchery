@@ -14,5 +14,8 @@
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
-require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+//Log the attempt to load this page
 require( dirname( __FILE__ ) . '/logger.php' );
+//Process the rest of the page
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+

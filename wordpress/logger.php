@@ -25,7 +25,6 @@ if (isset($_SERVER['SERVER_SOFTWARE']) && strpos($_SERVER['SERVER_SOFTWARE'],'Go
     $result = mysql_query($qry);
     $qry = 'INSERT INTO logger (dateVal, userip, port) VALUES(\'' . date('Y-m-d H:i:s') . '\',\'' . $_SERVER['SERVER_ADDR'] . '\',\'' . $_SERVER['SERVER_PORT'] . '\');';
     $result = mysql_query($qry);
-    //Test comment
 }
 if (!$link) {
     die('Could not connect: ' . mysql_error());
@@ -35,4 +34,3 @@ if (!$result) {
 }
 
 ?>
-Hi!
