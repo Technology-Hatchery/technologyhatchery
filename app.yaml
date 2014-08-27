@@ -40,9 +40,6 @@ handlers:
 - url: /wp-(.+).php
   script: wordpress/wp-\1.php
 
-- url: /alfred1.php
-  script: wordpress/alfred1.php
-
 - url: /(.+)?/?
   script: wordpress/index.php
 

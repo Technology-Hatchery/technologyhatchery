@@ -9,6 +9,9 @@ if ( defined('WP_USE_THEMES') && WP_USE_THEMES )
 	 *
 	 * @since 1.5.0
 	 */
+    print('<br/><br/>');
+    print('do_action( \'template_redirect\' );');
+    print('<br/><br/>');
 	do_action( 'template_redirect' );
 
 /**
@@ -41,6 +44,9 @@ elseif ( is_trackback() ) :
 	return;
 endif;
 
+print('<br/><br/>');
+print('various functions');
+print('<br/><br/>');
 if ( defined('WP_USE_THEMES') && WP_USE_THEMES ) :
 	$template = false;
 	if     ( is_404()            && $template = get_404_template()            ) :
@@ -71,6 +77,9 @@ if ( defined('WP_USE_THEMES') && WP_USE_THEMES ) :
 	 * @param string $template The path of the template to include.
 	 */
 	if ( $template = apply_filters( 'template_include', $template ) )
+        print('<br/><br/>');
+        print('include( $template )');
+        print('<br/><br/>');
 		include( $template );
 	return;
 endif;
