@@ -26,7 +26,10 @@ error_reporting( E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_ERROR | E_W
 if ( file_exists( ABSPATH . 'wp-config.php') ) {
 
 	/** The config file resides in ABSPATH */
-	require_once( ABSPATH . 'wp-config.php' );
+    print('<br/><br/>');
+    print('/wp-config.php');
+    print('<br/><br/>');
+    require_once( ABSPATH . 'wp-config.php' );
 
 } elseif ( file_exists( dirname(ABSPATH) . '/wp-config.php' ) && ! file_exists( dirname(ABSPATH) . '/wp-settings.php' ) ) {
 
@@ -39,7 +42,13 @@ if ( file_exists( ABSPATH . 'wp-config.php') ) {
 
 	define( 'WPINC', 'wp-includes' );
 	define( 'WP_CONTENT_DIR', ABSPATH . 'wp-content' );
-	require_once( ABSPATH . WPINC . '/load.php' );
+    print('<br/><br/>');
+    print('/load.php');
+    print('<br/><br/>');
+    require_once( ABSPATH . WPINC . '/load.php' );
+    print('<br/><br/>');
+    print('/version.php');
+    print('<br/><br/>');
 	require_once( ABSPATH . WPINC . '/version.php' );
 
 	wp_check_php_mysql_versions();
@@ -48,7 +57,10 @@ if ( file_exists( ABSPATH . 'wp-config.php') ) {
 	// Standardize $_SERVER variables across setups.
 	wp_fix_server_vars();
 
-	require_once( ABSPATH . WPINC . '/functions.php' );
+    print('<br/><br/>');
+    print('/functions.php');
+    print('<br/><br/>');
+    require_once( ABSPATH . WPINC . '/functions.php' );
 
 	$path = wp_guess_url() . '/wp-admin/setup-config.php';
 

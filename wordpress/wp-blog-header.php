@@ -7,12 +7,21 @@
 
 if ( !isset($wp_did_header) ) {
 
-	$wp_did_header = true;
+    $wp_did_header = true;
 
-	require_once( dirname(__FILE__) . '/wp-load.php' );
+    print('<br/><br/>');
+    print('/wp-load.php');
+    print('<br/><br/>');
+    require_once( dirname(__FILE__) . '/wp-load.php' );
 
-	wp();
+    print('<br/><br/>');
+    print('wp()');
+    print('<br/><br/>');
+    wp();
 
-	require_once( ABSPATH . WPINC . '/template-loader.php' );
+    print('<br/><br/>');
+    print('/template-loader.php');
+    print('<br/><br/>');
+    require_once( ABSPATH . WPINC . '/template-loader.php' );
 
 }
