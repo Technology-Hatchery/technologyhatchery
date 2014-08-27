@@ -256,7 +256,7 @@ function spawn_cron( $gmt_time = 0 ) {
 		while ( @ob_end_flush() );
 		flush();
 
-		WP_DEBUG ? include_once( ABSPATH . 'wp-cron.php' ) : @include_once( ABSPATH . 'wp-cron.php' );
+		WP_DEBUG ? include_once( ABSPATH . 'wp-cron.php' ) : include_once( ABSPATH . 'wp-cron.php' );
 		return;
 	}
 

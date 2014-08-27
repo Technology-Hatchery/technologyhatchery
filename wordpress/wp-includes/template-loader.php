@@ -3,6 +3,8 @@
  * Loads the correct template based on the visitor's url
  * @package WordPress
  */
+$indent = '     ';
+
 if ( defined('WP_USE_THEMES') && WP_USE_THEMES )
 	/**
 	 * Fires before determining which template to load.
@@ -10,7 +12,7 @@ if ( defined('WP_USE_THEMES') && WP_USE_THEMES )
 	 * @since 1.5.0
 	 */
     print('<br/><br/>');
-    print('do_action( \'template_redirect\' );');
+    print($indent . 'do_action( \'template_redirect\' );');
     print('<br/><br/>');
 	do_action( 'template_redirect' );
 
@@ -45,7 +47,7 @@ elseif ( is_trackback() ) :
 endif;
 
 print('<br/><br/>');
-print('various functions');
+print($indent . 'various functions');
 print('<br/><br/>');
 if ( defined('WP_USE_THEMES') && WP_USE_THEMES ) :
 	$template = false;
@@ -78,7 +80,7 @@ if ( defined('WP_USE_THEMES') && WP_USE_THEMES ) :
 	 */
 	if ( $template = apply_filters( 'template_include', $template ) )
         print('<br/><br/>');
-        print('include( $template )');
+        print($indent . 'include( $template )');
         print('<br/><br/>');
 		include( $template );
 	return;

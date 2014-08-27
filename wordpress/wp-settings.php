@@ -18,8 +18,21 @@
 define( 'WPINC', 'wp-includes' );
 
 // Include files required for initialization.
+print('<br/><br/>');
+print($indent . $indent . $indent . '/load.php (start)');
+print('<br/><br/>');
 require( ABSPATH . WPINC . '/load.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '//load.php (end)');
+print('<br/><br/>');
+
+print('<br/><br/>');
+print($indent . $indent . $indent . '/default-constants.php (start)');
+print('<br/><br/>');
 require( ABSPATH . WPINC . '/default-constants.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/default-constants.php (end)');
+print('<br/><br/>');
 
 /*
  * These can't be directly globalized in version.php. When updating,
@@ -28,12 +41,21 @@ require( ABSPATH . WPINC . '/default-constants.php' );
  */
 global $wp_version, $wp_db_version, $tinymce_version, $required_php_version, $required_mysql_version;
 require( ABSPATH . WPINC . '/version.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/version.php (end)');
+print('<br/><br/>');
 
 // Set initial default constants including WP_MEMORY_LIMIT, WP_MAX_MEMORY_LIMIT, WP_DEBUG, WP_CONTENT_DIR and WP_CACHE.
 wp_initial_constants();
+print('<br/><br/>');
+print($indent . $indent . $indent . '/wp_initial_constants (end)');
+print('<br/><br/>');
 
 // Check for the required PHP version and for the MySQL extension or a database drop-in.
 wp_check_php_mysql_versions();
+print('<br/><br/>');
+print($indent . $indent . $indent . '/wp_check_php_mysql_versions (end)');
+print('<br/><br/>');
 
 // Disable magic quotes at runtime. Magic quotes are added using wpdb later in wp-settings.php.
 @ini_set( 'magic_quotes_runtime', 0 );
@@ -41,39 +63,97 @@ wp_check_php_mysql_versions();
 
 // WordPress calculates offsets from UTC.
 date_default_timezone_set( 'UTC' );
+print('<br/><br/>');
+print($indent . $indent . $indent . 'date_default_timezone_set (end)');
+print('<br/><br/>');
 
 // Turn register_globals off.
 wp_unregister_GLOBALS();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_unregister_GLOBALS (end)');
+print('<br/><br/>');
 
 // Standardize $_SERVER variables across setups.
 wp_fix_server_vars();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_fix_server_vars (end)');
+print('<br/><br/>');
 
 // Check if we have received a request due to missing favicon.ico
 wp_favicon_request();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_favicon_request (end)');
+print('<br/><br/>');
 
 // Check if we're in maintenance mode.
 wp_maintenance();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_maintenance (end)');
+print('<br/><br/>');
 
 // Start loading timer.
 timer_start();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'timer_start (end)');
+print('<br/><br/>');
 
 // Check if we're in WP_DEBUG mode.
 wp_debug_mode();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_debug_mode (end)');
+print('<br/><br/>');
 
+print('<br/><br/>');
+print($indent . $indent . $indent . 'WP_CACHE = ' . (defined ( WP_CACHE ) ? WP_CACHE : 'not defined'));
+print($indent . $indent . $indent . 'WP_DEBUG = ' . (defined ( WP_DEBUG ) ? WP_DEBUG : 'not defined'));
+print($indent . $indent . $indent . 'WP_CONTENT_DIR = ' . WP_CONTENT_DIR);
+print('<br/><br/>');
 // For an advanced caching plugin to use. Uses a static drop-in because you would only want one.
 if ( WP_CACHE )
-	WP_DEBUG ? include( WP_CONTENT_DIR . '/advanced-cache.php' ) : @include( WP_CONTENT_DIR . '/advanced-cache.php' );
+	WP_DEBUG ? include( WP_CONTENT_DIR . '/advanced-cache.php' ) : include( WP_CONTENT_DIR . '/advanced-cache.php' );
 
 // Define WP_LANG_DIR if not set.
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_set_lang_dir (start)');
+print('<br/><br/>');
 wp_set_lang_dir();
+print('<br/><br/>');
+print($indent . $indent . $indent . 'wp_set_lang_dir (end)');
+print('<br/><br/>');
 
 // Load early WordPress files.
+print('<br/><br/>');
+print($indent . $indent . $indent . '/compat.php (start)');
+print('<br/><br/>');
 require( ABSPATH . WPINC . '/compat.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/compat.php (end)');
+print('<br/><br/>');
+
 require( ABSPATH . WPINC . '/functions.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/functions.php (end)');
+print('<br/><br/>');
+
 require( ABSPATH . WPINC . '/class-wp.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/class-wp.php (end)');
+print('<br/><br/>');
+
 require( ABSPATH . WPINC . '/class-wp-error.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/class-wp-error.php (end)');
+print('<br/><br/>');
+
 require( ABSPATH . WPINC . '/plugin.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/plugin.php (end)');
+print('<br/><br/>');
+
 require( ABSPATH . WPINC . '/pomo/mo.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/pomo/mo.php (end)');
+print('<br/><br/>');
 
 // Include the wpdb class and, if present, a db.php database drop-in.
 require_wp_db();
@@ -87,11 +167,21 @@ wp_start_object_cache();
 
 // Attach the default filters.
 require( ABSPATH . WPINC . '/default-filters.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/default-filters.php (end)');
+print('<br/><br/>');
 
 // Initialize multisite if enabled.
 if ( is_multisite() ) {
 	require( ABSPATH . WPINC . '/ms-blogs.php' );
+    print('<br/><br/>');
+    print($indent . $indent . $indent . '/ms-blogs.php (end)');
+    print('<br/><br/>');
+
 	require( ABSPATH . WPINC . '/ms-settings.php' );
+    print('<br/><br/>');
+    print($indent . $indent . $indent . '/ms-settings.php (end)');
+    print('<br/><br/>');
 } elseif ( ! defined( 'MULTISITE' ) ) {
 	define( 'MULTISITE', false );
 }
@@ -104,6 +194,9 @@ if ( SHORTINIT )
 
 // Load the L10n library.
 require_once( ABSPATH . WPINC . '/l10n.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/110n.php (end)');
+print('<br/><br/>');
 
 // Run the installer if WordPress is not installed.
 wp_not_installed();
@@ -152,12 +245,18 @@ require( ABSPATH . WPINC . '/widgets.php' );
 require( ABSPATH . WPINC . '/nav-menu.php' );
 require( ABSPATH . WPINC . '/nav-menu-template.php' );
 require( ABSPATH . WPINC . '/admin-bar.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . 'rest of wordpress (end)');
+print('<br/><br/>');
 
 // Load multisite-specific files.
 if ( is_multisite() ) {
 	require( ABSPATH . WPINC . '/ms-functions.php' );
 	require( ABSPATH . WPINC . '/ms-default-filters.php' );
 	require( ABSPATH . WPINC . '/ms-deprecated.php' );
+    print('<br/><br/>');
+    print($indent . $indent . $indent . 'multisite-specific files (end)');
+    print('<br/><br/>');
 }
 
 // Define constants that rely on the API to obtain the default value.
@@ -199,6 +298,9 @@ wp_ssl_constants();
 
 // Create common globals.
 require( ABSPATH . WPINC . '/vars.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/vars.php (end)');
+print('<br/><br/>');
 
 // Make taxonomies and posts available to plugins and themes.
 // @plugin authors: warning: these get registered again on the init hook.
@@ -218,6 +320,9 @@ unset( $plugin );
 // Load pluggable functions.
 require( ABSPATH . WPINC . '/pluggable.php' );
 require( ABSPATH . WPINC . '/pluggable-deprecated.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . 'pluggable functions (end)');
+print('<br/><br/>');
 
 // Set internal encoding.
 wp_set_internal_encoding();
@@ -312,6 +417,9 @@ unset( $locale_file );
 
 // Pull in locale data after loading text domain.
 require_once( ABSPATH . WPINC . '/locale.php' );
+print('<br/><br/>');
+print($indent . $indent . $indent . '/locale.php (end)');
+print('<br/><br/>');
 
 /**
  * WordPress Locale object for loading locale domain date and various strings.
