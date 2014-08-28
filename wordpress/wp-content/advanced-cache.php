@@ -3,9 +3,9 @@ $indent = '     ';
 
 if ( is_readable( dirname( __FILE__ ) . '/batcache-stats.php' ) )
 	require_once dirname( __FILE__ ) . '/batcache-stats.php';
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . '/batcache-stats.php (end)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . '/batcache-stats.php (end)');
+//print('<br/><br/>');
 
 if ( !function_exists( 'batcache_stats' ) ) {
 	function batcache_stats( $name, $value, $num = 1, $today = FALSE, $hour = FALSE ) { }
@@ -43,9 +43,9 @@ function vary_cache_on_function($function) {
 	$batcache->add_variant($function);
 }
 
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . 'class batcache (start)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . 'class batcache (start)');
+//print('<br/><br/>');
 class batcache {
 	// This is the base configuration. You can edit these variables or move them into your wp-config.php file.
 	var $max_age =  300; // Expire batcache items aged this many seconds (zero to disable batcache)
@@ -310,9 +310,9 @@ HTML;
 		$this->cache['output'] = substr_replace( $this->cache['output'], $debug_html, $head_position, 0 );
 	}
 }
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . 'class batcache (end)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . 'class batcache (end)');
+//print('<br/><br/>');
 
 global $batcache;
 // Pass in the global variable which may be an array of settings to override defaults.
@@ -351,13 +351,13 @@ if ( is_array( $_COOKIE) && ! empty( $_COOKIE ) ) {
 if ( ! include_once( WP_CONTENT_DIR . '/object-cache.php' ) )
 	return;
 
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . 'wp_cachce_init (start)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . 'wp_cachce_init (start)');
+//print('<br/><br/>');
 wp_cache_init(); // Note: wp-settings.php calls wp_cache_init() which clobbers the object made here.
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . 'wp_cachce_init (end)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . 'wp_cachce_init (end)');
+//print('<br/><br/>');
 
 if ( ! is_object( $wp_object_cache ) )
 	return;
@@ -530,12 +530,12 @@ if ( !$batcache->do && !$batcache->genlock )
 $wp_filter['status_header'][10]['batcache'] = array( 'function' => array(&$batcache, 'status_header'), 'accepted_args' => 2 );
 $wp_filter['wp_redirect_status'][10]['batcache'] = array( 'function' => array(&$batcache, 'redirect_status'), 'accepted_args' => 2 );
 
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . 'ob_start(arr(&$batcache, \'ob\')) (start)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . 'ob_start(arr(&$batcache, \'ob\')) (start)');
+//print('<br/><br/>');
 ob_start(array(&$batcache, 'ob'));
-print('<br/><br/>');
-print($indent . $indent . $indent . $indent . 'ob_start(arr(&$batcache, \'ob\')) (end)');
-print('<br/><br/>');
+//print('<br/><br/>');
+//print($indent . $indent . $indent . $indent . 'ob_start(arr(&$batcache, \'ob\')) (end)');
+//print('<br/><br/>');
 
 // It is safer to omit the final PHP closing tag.

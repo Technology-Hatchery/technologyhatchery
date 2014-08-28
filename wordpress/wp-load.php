@@ -28,13 +28,13 @@ error_reporting( E_CORE_ERROR | E_CORE_WARNING | E_COMPILE_ERROR | E_ERROR | E_W
 if ( file_exists( ABSPATH . 'wp-config.php') ) {
 
 	/** The config file resides in ABSPATH */
-    print('<br/><br/>');
-    print($indent. '/wp-config.php (start)');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent. '/wp-config.php (start)');
+    //print('<br/><br/>');
     require_once( ABSPATH . 'wp-config.php' );
-    print('<br/><br/>');
-    print($indent. '/wp-config.php (finish)');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent. '/wp-config.php (finish)');
+    //print('<br/><br/>');
     //alfredFailure();
 
 } elseif ( file_exists( dirname(ABSPATH) . '/wp-config.php' ) && ! file_exists( dirname(ABSPATH) . '/wp-settings.php' ) ) {
@@ -48,13 +48,13 @@ if ( file_exists( ABSPATH . 'wp-config.php') ) {
 
 	define( 'WPINC', 'wp-includes' );
 	define( 'WP_CONTENT_DIR', ABSPATH . 'wp-content' );
-    print('<br/><br/>');
-    print($indent. '/load.php');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent. '/load.php');
+    //print('<br/><br/>');
     require_once( ABSPATH . WPINC . '/load.php' );
-    print('<br/><br/>');
-    print($indent. '/version.php');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent. '/version.php');
+    //print('<br/><br/>');
 	require_once( ABSPATH . WPINC . '/version.php' );
 
 	wp_check_php_mysql_versions();
@@ -63,13 +63,13 @@ if ( file_exists( ABSPATH . 'wp-config.php') ) {
 	// Standardize $_SERVER variables across setups.
 	wp_fix_server_vars();
 
-    print('<br/><br/>');
-    print($indent. '/functions.php (start)');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent. '/functions.php (start)');
+    //print('<br/><br/>');
     require_once( ABSPATH . WPINC . '/functions.php' );
-    print('<br/><br/>');
-    print($indent. '/functions.php (finish)');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent. '/functions.php (finish)');
+    //print('<br/><br/>');
 
 	$path = wp_guess_url() . '/wp-admin/setup-config.php';
 

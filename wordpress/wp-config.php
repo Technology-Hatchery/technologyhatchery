@@ -34,9 +34,9 @@
         define('DB_USER', 'root');
         define('DB_PASSWORD', 'Cc17931793');
     }
-    print('<br/><br/>');
-    print($indent . 'finish setting db information');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent . 'finish setting db information');
+    //print('<br/><br/>');
 
     // Determine HTTP or HTTPS, then set WP_SITEURL and WP_HOME
     if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443)
@@ -108,13 +108,13 @@
         define('ABSPATH', dirname(__FILE__) . '/wordpress/');
 
     /** Sets up WordPress vars and included files. */
-    print('<br/><br/>');
-    print($indent .$indent . '/wp-settings.php (start)');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent .$indent . '/wp-settings.php (start)');
+    //print('<br/><br/>');
     require_once(ABSPATH . 'wp-settings.php');
-    print('<br/><br/>');
-    print($indent . $indent . '/wp-settings.php (end)');
-    print('<br/><br/>');
+    //print('<br/><br/>');
+    //print($indent . $indent . '/wp-settings.php (end)');
+    //print('<br/><br/>');
 
    // configures batcache
     $batcache = [
