@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AZ Shortcodes\n"
+"POT-Creation-Date: 2013-07-17 14:25+0100\n"
+"PO-Revision-Date: 2013-07-19 15:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: Alessio Atzeni <info@alessioatzeni.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../tinymce/shortcode_generator/option-element.php:80
+msgid "Accordion Title: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:82
+msgid "Accordion Content: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:86
+msgid "Remove Accordion"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:86
+msgid "Add Accordion"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:94
+msgid "Toggle Title: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:96
+msgid "Toggle Content: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:100
+msgid "Remove Toggle"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:100
+msgid "Add Toggle"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:108
+msgid "Tab Title: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:110
+msgid "Tab Content: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:114
+msgid "Remove Tab"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:114
+msgid "Add Tab"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:126
+#: ../tinymce/shortcode_generator/option-element.php:144
+#: ../tinymce/shortcode_generator/option-element.php:162
+#: ../tinymce/shortcode_generator/option-element.php:180
+msgid "Upload"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/option-element.php:127
+#: ../tinymce/shortcode_generator/option-element.php:145
+#: ../tinymce/shortcode_generator/option-element.php:163
+#: ../tinymce/shortcode_generator/option-element.php:181
+msgid "Remove Upload"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcode-generator.php:17
+msgid "AZ Shortcode"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcode-generator.php:19
+msgid "Choose your Shortcode..."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcode-generator.php:60
+msgid "Content: "
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcode-generator.php:68
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:32
+msgid "Blank Divider"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:34
+msgid "Height Value"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:34
+msgid "Height Value in pixel. Enter only number value."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:35
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:45
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:81
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:161
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:175
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:485
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:511
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:521
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:532
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:544
+msgid "Class"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:35
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:45
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:81
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:161
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:175
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:485
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:511
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:521
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:532
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:544
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:42
+msgid "Divider"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:44
+msgid "Divider Style"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:44
+msgid "Choose between the two available divider styles."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:52
+msgid "Accordion Section"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:61
+msgid "Toggle Section"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:70
+msgid "Tab Section"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:79
+msgid "Alert Box"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:84
+msgid "Type"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:99
+msgid "Tooltip"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:103
+msgid "Position"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:104
+msgid "Select the position of the tooltip."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:114
+msgid "Text"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:115
+msgid "This text appear inside the tooltip."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:123
+msgid "Highlight"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:127
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:143
+msgid "Mode"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:139
+msgid "Dropcap"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:155
+msgid "Lightbox Image"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:157
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:170
+msgid "Image"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:157
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:170
+msgid "Select image from media library."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:158
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:171
+msgid "Thumbnail Width"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:158
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:171
+msgid ""
+"Choose a width for your thumbnail. It will be automatically cropped and "
+"resized."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:159
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:173
+msgid "Title"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:159
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:173
+msgid "Insert a Title of your Image."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:160
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:174
+msgid "Gallery Name"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:160
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:174
+msgid "If you want can insert a name of your gallery here."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:168
+msgid "Lightbox Video"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:172
+msgid "Link URL"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:172
+msgid "Insert the URL for video (https://vimeo.com/18439821)."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:182
+msgid "Button"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:184
+msgid "Button Label"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:184
+msgid "This is the text that appears on your button."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:185
+msgid "Button Link"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:185
+msgid "Where should your button link to?"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:188
+msgid "Button Link Target"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:196
+msgid "Button Size"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:206
+msgid "Inverted Color?"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:509
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:512
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:512
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:519
+msgid "Video Embed"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:522
+msgid "URL"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:523
+msgid ""
+"Working examples, in case you want to use an external service (Video Embed "
+"Shortcode):<br/><br/>https://vimeo.com/charlex/shapeshifter <br/>http://www."
+"youtube.com/watch?v=CZIt20emgLY"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:530
+msgid "Video Self Hosted"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:533
+msgid "M4V File URL"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:533
+msgid "Upload a M4V File."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:534
+msgid "OGV File URL"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:534
+msgid "Upload a OGV File."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:535
+msgid "Preview Image"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:535
+msgid "If you wish can upload a poster image."
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:542
+msgid "Audio Self Hosted"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:545
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../tinymce/shortcode_generator/shortcodes-definitions.php:545
+msgid "Upload a MP3 File."
+msgstr ""
