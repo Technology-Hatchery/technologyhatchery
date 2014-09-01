@@ -12,13 +12,7 @@
  * @var bool
  */
 
-//Before define WP_USE_THEMES
-$alfred = 1;
-
 define('WP_USE_THEMES', true);
-
-//After define WP_USE_THEMES
-$alfred = 2;
 
 /** Loads the WordPress Environment and Template */
 //Log the attempt to load this page
