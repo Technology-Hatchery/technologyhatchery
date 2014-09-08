@@ -11,10 +11,14 @@
  *
  * @var bool
  */
-define('WP_USE_THEMES', true);
+//define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 //Log the attempt to load this page
-require( dirname( __FILE__ ) . '/logger.php' );
+//require( dirname( __FILE__ ) . '/logger.php' );
 //Process the rest of the page
-require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+//require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+
+$filepath = "C:/Users/Administrator/Dropbox/slider_settings.xml";
+var_dump(is_file($filepath));
+$obj = simplexml_load_file($filepath);

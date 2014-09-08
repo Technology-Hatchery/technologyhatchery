@@ -43,11 +43,12 @@
 		 * insert variables to some table
 		 */
 		public function insert($table,$arrItems){
+			global $wpdb;
 			
 			$this->wpdb->insert($table, $arrItems);
 			$this->checkForErrors("Insert query error");
 			
-			$this->lastRowID = mysql_insert_id();
+			$this->lastRowID = $wpdb->insert_id;
 						
 			return($this->lastRowID);
 		}
@@ -57,7 +58,9 @@
 		 * get last insert id
 		 */
 		public function getLastInsertID(){
-			$this->lastRowID = mysql_insert_id();
+			global $wpdb;
+			
+			$this->lastRowID = $wpdb->insert_id;
 			return($this->lastRowID);			
 		}
 		
@@ -143,7 +146,8 @@
 		 * escape data to avoid sql errors and injections.
 		 */
 		public function escape($string){
-			return($this->wpdb->escape($string));
+			$string = esc_sql($string);
+			return($string);
 		}
 		
 	}
