@@ -2,299 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39f83274-a4d6-41e5-b239-5fd24a59fb90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/animated-overlay.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/cog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-pa_IN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/diag_grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/diag_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/font/egfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/font/egfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/font/egfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/fixed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/galleryicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/assets/gridtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/assets/gridtile_3x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/assets/gridtile_3x3_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/assets/gridtile_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/icon-edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/icon-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/icon-trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/pattern.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/dummy/pattern.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/dummy/placeholder_large1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/dummy/placeholder_large2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/dummy/placeholder_large3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/posticon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/font/revicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/font/revicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/font/revicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-de_DE.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-old-ru_RU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-pl_PL.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-ru_RU.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-zh_CN.mo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/rs_center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/rs_rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/templateicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/alfred2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/aq_resizer.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/captions-original.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/backup/captions-original.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/css/captions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/css_editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/font/egfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/em_integration.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/fonts.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/backup/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/old/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/old/images/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/dummy/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/dropdownchecklist/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/temp/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/assets/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/css/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/font/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/images/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/images/gradient/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/js/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/temp/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/jquery-ui-1.10.3.custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/jquery-ui-1.10.3.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.enablelog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/newvideo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/oldvideo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/release_log.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/font/revicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-old-ru_RU.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-pl_PL.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-ru_RU.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-zh_CN.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_tinybox.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_css_js.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slider_template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides_gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides_list_posts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides_posts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/tbld-3.9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/tbld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/themepunch-google-fonts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/update.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace (Alfred Wechselberger's conflicted copy 2014-09-04).xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/wpml.class.php" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\languages\temp\revslider-ru_RU.mo" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\languages\temp\revslider-ru_RU.po" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\release_log.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\css\captions-original.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\css\captions.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\pluginsources\jquery.themepunch.plugins.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\pluginsources\jquery.themepunch.revolution.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\demo.captions.vtt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\font\vjs.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\font\vjs.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\font\vjs.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\font\vjs.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\video-js.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\video-js.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\video-js.swf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\rs-plugin\videojs\video.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\wordpress\wp-content\plugins\revslider\temp\functions_wordpress.class.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-hu_HU.mo" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-hu_HU.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-ja.mo" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-ja.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-ko_KR.mo" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-ko_KR.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-sk_SK.mo" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-sk_SK.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-tr_TR.mo" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7-tr_TR.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/trans_tile2.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/images/trans_tile2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_222222_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_2e83ff_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_454545_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_888888_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/acceptance.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/acceptance.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/admin-functions.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/admin-functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/admin.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/admin.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/admin.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/akismet.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/akismet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/alfred1.php" afterPath="$PROJECT_DIR$/wordpress/alfred1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/base.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/base.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/base_front.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/base_front.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/capabilities.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/capabilities.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/captcha.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/captcha.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/checkbox.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/checkbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/closetag.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/closetag.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/codemirror.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/codemirror.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/codemirror.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/codemirror.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7.pot" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/contact-form-7.pot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/contact-form.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/contact-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/controller.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/css.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/css.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/cssparser.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/cssparser.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/date.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/date.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/db.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/db.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/dialog.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/dialog.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/dialog.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/dialog_preview_slide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/dialog_preview_slider.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/dialog_preview_slider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/edit_layers.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/edit_layers.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/edit_layers.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/edit_layers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/edit_layers.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/edit_layers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/elements_base.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/elements_base.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/farbtastic.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/farbtastic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/farbtastic.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/farbtastic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/file.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/flamingo.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/flamingo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/foldcode.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/foldcode.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/formatting.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/formatting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/formatting.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/formatting.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/functions.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/functions.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/functions.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/functions.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/functions_wordpress.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/functions_wordpress.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/general_settings.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/general_settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/general_settings_dialog.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/general_settings_dialog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/image_view.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/image_view.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/include_framework.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/include_framework.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/javascript-hint.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/javascript-hint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/jetpack.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/jetpack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/old/jquery-ui-1.8.18.custom.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/old/jquery-ui-1.8.18.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/jquery-ui-1.9.2.custom.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/jquery-ui-1.9.2.custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/jquery-ui-1.9.2.custom.min.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/jui/new/jquery-ui-1.9.2.custom.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery-ui.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/jquery.tipsy.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/jquery.tipsy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery.ui.theme.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/jquery.ui.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/jui_old.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/jui_old.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/layer_settings.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/layer_settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/license.txt" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/listo.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/listo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/loadmode.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/loadmode.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/mail.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/master_view.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/master_view.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/match-highlighter.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/match-highlighter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/includes/meta-boxes.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/includes/meta-boxes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/multiplex.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/multiplex.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/my-farbtastic.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/farbtastic/my-farbtastic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/number.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/number.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/overlay.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/overlay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php.ini" afterPath="$PROJECT_DIR$/php.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/pig-hint.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/pig-hint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/pipe.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/pipe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/quiz.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/quiz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/readme.txt" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/readme.txt" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/languages/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/response.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/response.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/rev_admin.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/rev_admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-de_DE.po" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-de_DE.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-en_GB.po" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-en_GB.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-hu_HU.po" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/languages/revslider-hu_HU.po" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/revslider.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/revslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/revslider_admin.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/revslider_admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/revslider_front.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/revslider_front.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_globals.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_globals.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_operations.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_operations.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_output.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_output.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_params.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_params.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_settings_product.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_settings_product.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_slide.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_slide.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_slider.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_slider.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_widget.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/revslider_widget.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/runmode-standalone.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/runmode-standalone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/runmode.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/runmode.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/js/scripts.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/search.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/search.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/searchcursor.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/searchcursor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/select.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/select.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/css/settings.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/rs-plugin/css/settings.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/settings.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/settings.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/settings.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_advances.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_advances.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_output.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_output.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_product.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_product.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_product_sidebar.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings_product_sidebar.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/shortcodes.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/shortcodes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/simple-hint.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/simple-hint.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/simple-hint.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/simple-hint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slide.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slide.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slide_settings.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slide_settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slider.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_api.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_edit.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_new.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_new.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.xml" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings_xml_lang.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings_xml_lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_toolbox.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slider_toolbox.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/sliders.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/sliders.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/sliders.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/sliders.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/sliders_list.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/sliders_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slides.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/slides.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides_list.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/templates/slides_list.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/css/styles-rtl.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/css/styles-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/css/styles.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/submission.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/submission.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/submit.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/submit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/js/taggenerator.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/admin/js/taggenerator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/text.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/text.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/textarea.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/modules/textarea.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/tipsy.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/css/tipsy.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/dropdownchecklist/ui.dropdownchecklist.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/dropdownchecklist/ui.dropdownchecklist.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/dropdownchecklist/ui.dropdownchecklist.standalone.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/dropdownchecklist/ui.dropdownchecklist.standalone.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/uninstall.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/uninstall.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/uninstall.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/uninstall.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/update_dialog.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/update_dialog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/upgrade.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/includes/upgrade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/video_dialog.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/views/system/video_dialog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/screenshot-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/screenshot-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/screenshot-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/screenshot-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/screenshot-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font.4.2.1.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/images/wp_masonry_layout.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/plugin_interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/css/uaf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/css/uaf_admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/includes/uaf_editor_setup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/includes/uaf_font_implement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/includes/uaf_font_upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/includes/uaf_footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/includes/uaf_header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/use-any-font/use-any-font.php" />
+      <change type="DELETED" beforePath="C:\Users\Alfred\Dropbox\Technology Hatchery Inc\technical\Git\emily_wordpress\technologyhatchery-master\.idea\workspace (Alfred Wechselberger's conflicted copy 2014-09-04).xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.yaml" afterPath="$PROJECT_DIR$/app.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-includes/general-template.php" afterPath="$PROJECT_DIR$/wordpress/wp-includes/general-template.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/wp-contact-form-7.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/contact-form-7/wp-contact-form-7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/xml-hint.js" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/js/codemirror/util/xml-hint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/zip.class.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/zip.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-config.php" afterPath="$PROJECT_DIR$/wordpress/wp-config.php" />
     </list>
     <ignored path="technologyhatchery.iws" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -316,61 +46,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.307693" vertical-offset="13560" max-vertical-offset="21740">
-              <caret line="699" column="29" selection-start-line="699" selection-start-column="29" selection-end-line="699" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="wp-config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1153846" vertical-offset="413" max-vertical-offset="2600">
-              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="633" max-vertical-offset="2760">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="php.ini" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php.ini">
+      <file leaf-file-name="general-template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/general-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="14480" max-vertical-offset="58600">
+              <caret line="724" column="26" selection-start-line="724" selection-start-column="26" selection-end-line="724" selection-end-column="26" />
+              <folding>
+                <marker date="1410223608195" expanded="true" signature="39575:39763" placeholder="SELECT YEAR(..." />
+                <marker date="1410223608195" expanded="true" signature="40491:40632" placeholder="SELECT YEAR(..." />
+                <marker date="1410223608195" expanded="true" signature="41235:41485" placeholder="SELECT YEAR(..." />
+                <marker date="1410223608195" expanded="true" signature="42316:42560" placeholder="SELECT DISTI..." />
+                <marker date="1410223608195" expanded="true" signature="43781:43845" placeholder="SELECT * FRO..." />
+                <marker date="1410223608195" expanded="true" signature="46102:46197" placeholder="SELECT 1 as ..$wpdb-&gt;posts WHERE..." />
+                <marker date="1410223608195" expanded="true" signature="47416:47630" placeholder="SELECT MONTH..." />
+                <marker date="1410223608195" expanded="true" signature="47659:47890" placeholder="SELECT MONTH..." />
+                <marker date="1410223608195" expanded="true" signature="48631:48637" placeholder="..." />
+                <marker date="1410223608195" expanded="true" signature="49757:49763" placeholder="..." />
+                <marker date="1410223608195" expanded="true" signature="49830:50065" placeholder="SELECT DISTI..$wpdb-&gt;posts WHERE..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="option.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/option.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.089686096" vertical-offset="3240" max-vertical-offset="28500">
+              <caret line="168" column="31" selection-start-line="168" selection-start-column="31" selection-end-line="168" selection-end-column="31" />
+              <folding>
+                <marker date="1409023822020" expanded="true" signature="2302:2372" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+                <marker date="1409023822020" expanded="true" signature="3002:3072" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+                <marker date="1409023822020" expanded="true" signature="5113:5188" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+                <marker date="1409023822020" expanded="true" signature="5235:5287" placeholder="SELECT optio..." />
+                <marker date="1409023822020" expanded="true" signature="6410:6512" placeholder="SELECT meta_..$wpdb-&gt;sitemeta WHERE..." />
+                <marker date="1409023822020" expanded="true" signature="12584:12693" placeholder="INSERT INTO ..." />
+                <marker date="1409023822020" expanded="true" signature="14573:14631" placeholder="SELECT autol..$wpdb-&gt;options WHERE..." />
+                <marker date="1409023822020" expanded="true" signature="29168:29243" placeholder="SELECT meta_..$wpdb-&gt;sitemeta WHERE..." />
+                <marker date="1409023822020" expanded="true" signature="33480:33554" placeholder="SELECT meta_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object-cache.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/object-cache.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5300" max-vertical-offset="8320">
+              <caret line="265" column="0" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+              <folding>
+                <marker date="1409023820380" expanded="false" signature="8228:8249" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cache.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/cache.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="4900" max-vertical-offset="13160">
+              <caret line="245" column="0" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alfred1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/alfred1.php">
+      <file leaf-file-name="load-scripts.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/load-scripts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.9615384" vertical-offset="191" max-vertical-offset="500">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="3360">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/index.php">
+      <file leaf-file-name="load-styles.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/load-styles.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.1538463" vertical-offset="0" max-vertical-offset="460">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress/logger.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.2765958" vertical-offset="53" max-vertical-offset="720">
-              <caret line="13" column="55" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="3180">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -379,38 +143,28 @@
       <file leaf-file-name="app.yaml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="762" max-vertical-offset="1120">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1120">
+              <caret line="0" column="30" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpinfo().htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/phpinfo().htm">
+      <file leaf-file-name="screen.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/includes/screen.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="18780">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="13240" max-vertical-offset="23600">
+              <caret line="662" column="5" selection-start-line="662" selection-start-column="5" selection-end-line="662" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slider_settings.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.php">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/banshee/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2400" max-vertical-offset="2820">
-              <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slider_settings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="7900" max-vertical-offset="8020">
-              <caret line="395" column="9" selection-start-line="395" selection-start-column="9" selection-end-line="395" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1010" max-vertical-offset="2840">
+              <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -452,8 +206,9 @@
         <option value="$PROJECT_DIR$/wordpress/alfred1.php" />
         <option value="$PROJECT_DIR$/php.ini" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings.class.php" />
-        <option value="$PROJECT_DIR$/app.yaml" />
         <option value="$PROJECT_DIR$/wordpress/logger.php" />
+        <option value="$PROJECT_DIR$/app.yaml" />
+        <option value="$PROJECT_DIR$/wordpress/wp-includes/general-template.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-config.php" />
       </list>
     </option>
@@ -518,8 +273,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -538,22 +291,10 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="technologyhatchery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="technologyhatchery-master" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -565,11 +306,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Semantic-UI-fr" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -893,7 +634,10 @@
       <workItem from="1409817783904" duration="413000" />
       <workItem from="1409818292613" duration="219000" />
       <workItem from="1409854799572" duration="318000" />
-      <workItem from="1410215332948" duration="4182000" />
+      <workItem from="1410215332948" duration="5440000" />
+      <workItem from="1410221555278" duration="3479000" />
+      <workItem from="1410391732537" duration="38000" />
+      <workItem from="1410391843803" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="Added logger to track if Emily is hitting the CloudSQL database.">
       <created>1409023324190</created>
@@ -947,11 +691,15 @@
       <created>1409588742349</created>
       <updated>1409588742349</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Works locally but will not update when pushed to appengine.">
+      <created>1410220298560</created>
+      <updated>1410220298560</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39322000" />
+    <option name="totallyTimeSpent" value="44134000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -978,11 +726,10 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7761438" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.451876" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -992,17 +739,18 @@
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50653595" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25189108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3480392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27732465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32300162" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1031,7 +779,8 @@
     <MESSAGE value="Latest debugged version2." />
     <MESSAGE value="Testing" />
     <MESSAGE value="Finished testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished testing" />
+    <MESSAGE value="Works locally but will not update when pushed to appengine." />
+    <option name="LAST_COMMIT_MESSAGE" value="Works locally but will not update when pushed to appengine." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1049,71 +798,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2400" max-vertical-offset="2820">
-          <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/settings/slider_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7900" max-vertical-offset="8020">
-          <caret line="395" column="9" selection-start-line="395" selection-start-column="9" selection-end-line="395" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="460">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-load.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1340" max-vertical-offset="2740">
-          <caret line="67" column="129" selection-start-line="67" selection-start-column="129" selection-end-line="67" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/includes/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27200">
-          <caret line="575" column="70" selection-start-line="575" selection-start-column="70" selection-end-line="575" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/twentyten/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1240" max-vertical-offset="11960">
-          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/css/dashboard-rtl.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="16640" max-vertical-offset="22820">
-          <caret line="838" column="3" selection-start-line="838" selection-start-column="3" selection-end-line="838" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/default-widgets.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="16525" max-vertical-offset="28240">
@@ -1275,20 +959,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-load.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1780">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-blog-header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="460" max-vertical-offset="660">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="9620" max-vertical-offset="9740">
@@ -1329,7 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="13923">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1337,7 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5389" max-vertical-offset="6341">
           <caret line="317" column="29" selection-start-line="317" selection-start-column="9" selection-end-line="317" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1345,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15963">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1353,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="6715" max-vertical-offset="6817">
           <caret line="395" column="9" selection-start-line="395" selection-start-column="9" selection-end-line="395" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1361,31 +1027,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2400" max-vertical-offset="2820">
           <caret line="120" column="46" selection-start-line="120" selection-start-column="46" selection-end-line="120" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/plugins/revslider/inc_php/framework/settings.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.307693" vertical-offset="13560" max-vertical-offset="21740">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13980" max-vertical-offset="21840">
           <caret line="699" column="29" selection-start-line="699" selection-start-column="29" selection-end-line="699" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/alfred1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9615384" vertical-offset="191" max-vertical-offset="500">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="600">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1538463" vertical-offset="0" max-vertical-offset="460">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1393,31 +1048,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="560">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1780">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-blog-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.192307" vertical-offset="89" max-vertical-offset="580">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/logger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1153846" vertical-offset="105" max-vertical-offset="720">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/banshee/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9230769" vertical-offset="1050" max-vertical-offset="12320">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/banshee/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1010" max-vertical-offset="2840">
+          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.yaml">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="762" max-vertical-offset="1120">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="14480" max-vertical-offset="58600">
+          <caret line="724" column="26" selection-start-line="724" selection-start-column="26" selection-end-line="724" selection-end-column="26" />
+          <folding>
+            <marker date="1410223608195" expanded="true" signature="39575:39763" placeholder="SELECT YEAR(..." />
+            <marker date="1410223608195" expanded="true" signature="40491:40632" placeholder="SELECT YEAR(..." />
+            <marker date="1410223608195" expanded="true" signature="41235:41485" placeholder="SELECT YEAR(..." />
+            <marker date="1410223608195" expanded="true" signature="42316:42560" placeholder="SELECT DISTI..." />
+            <marker date="1410223608195" expanded="true" signature="43781:43845" placeholder="SELECT * FRO..." />
+            <marker date="1410223608195" expanded="true" signature="46102:46197" placeholder="SELECT 1 as ..$wpdb-&gt;posts WHERE..." />
+            <marker date="1410223608195" expanded="true" signature="47416:47630" placeholder="SELECT MONTH..." />
+            <marker date="1410223608195" expanded="true" signature="47659:47890" placeholder="SELECT MONTH..." />
+            <marker date="1410223608195" expanded="true" signature="48631:48637" placeholder="..." />
+            <marker date="1410223608195" expanded="true" signature="49757:49763" placeholder="..." />
+            <marker date="1410223608195" expanded="true" signature="49830:50065" placeholder="SELECT DISTI..$wpdb-&gt;posts WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/load-scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="3360">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/load-styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="3180">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-admin/includes/screen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13240" max-vertical-offset="23600">
+          <caret line="662" column="5" selection-start-line="662" selection-start-column="5" selection-end-line="662" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1153846" vertical-offset="413" max-vertical-offset="2600">
-          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="633" max-vertical-offset="2760">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/logger.php">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/cache.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.2765958" vertical-offset="53" max-vertical-offset="720">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="4900" max-vertical-offset="13160">
+          <caret line="245" column="0" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/object-cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5300" max-vertical-offset="8320">
+          <caret line="265" column="0" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+          <folding>
+            <marker date="1409023820380" expanded="false" signature="8228:8249" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1120">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-includes/option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.089686096" vertical-offset="3240" max-vertical-offset="28500">
+          <caret line="168" column="31" selection-start-line="168" selection-start-column="31" selection-end-line="168" selection-end-column="31" />
+          <folding>
+            <marker date="1409023822020" expanded="true" signature="2302:2372" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+            <marker date="1409023822020" expanded="true" signature="3002:3072" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+            <marker date="1409023822020" expanded="true" signature="5113:5188" placeholder="SELECT optio..$wpdb-&gt;options WHERE..." />
+            <marker date="1409023822020" expanded="true" signature="5235:5287" placeholder="SELECT optio..." />
+            <marker date="1409023822020" expanded="true" signature="6410:6512" placeholder="SELECT meta_..$wpdb-&gt;sitemeta WHERE..." />
+            <marker date="1409023822020" expanded="true" signature="12584:12693" placeholder="INSERT INTO ..." />
+            <marker date="1409023822020" expanded="true" signature="14573:14631" placeholder="SELECT autol..$wpdb-&gt;options WHERE..." />
+            <marker date="1409023822020" expanded="true" signature="29168:29243" placeholder="SELECT meta_..$wpdb-&gt;sitemeta WHERE..." />
+            <marker date="1409023822020" expanded="true" signature="33480:33554" placeholder="SELECT meta_..." />
+          </folding>
         </state>
       </provider>
     </entry>

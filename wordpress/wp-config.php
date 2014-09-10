@@ -27,6 +27,9 @@
         define('DB_HOST', ':/cloudsql/genuine-range-625:wordpress');
         define('DB_USER', 'root');
         define('DB_PASSWORD', '');
+
+        //$qry = 'INSERT INTO logger (dateVal, userip) VALUES(\'' . date('Y-m-d H:i:s') . '\',\'' . $_SERVER['REMOTE_ADDR'] . '\');';
+        //$result = mysql_query($qry);
     } else {
         /** Local environment MySQL login info */
         define('DB_HOST', '173.194.109.207');
@@ -34,6 +37,11 @@
         define('DB_USER', 'root');
         define('DB_PASSWORD', 'Cc17931793');
     }
+    /*$link = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
+    $qry = 'SELECT option_name, option_value FROM wp_options WHERE option_name = "blogname"';
+    $result = mysql_query($qry);
+    $row = mysql_fetch_array($result, MYSQL_NUM);
+    printf("Option: %s  Value: %s", $row[0], $row[1]);*/
     //print('<br/><br/>');
     //print($indent . 'finish setting db information');
     //print('<br/><br/>');

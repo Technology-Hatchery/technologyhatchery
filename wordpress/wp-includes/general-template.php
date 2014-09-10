@@ -692,7 +692,7 @@ function get_bloginfo( $show = '', $filter = 'raw' ) {
 			break;
 		case 'name':
 		default:
-			$output = get_option('blogname');
+			$output = get_option('blogname').'yy';
 			break;
 	}
 
